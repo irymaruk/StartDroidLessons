@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" filepath="$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" filepath="$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" filepath="$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" filepath="$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" filepath="$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" />
     </modules>
   </component>
 </project>
