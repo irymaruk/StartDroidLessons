@@ -10,7 +10,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p0031firstmodule" />
             <option value="$PROJECT_DIR$/p0141_menuadv" />
             <option value="$PROJECT_DIR$/p0151_contextmenu" />
