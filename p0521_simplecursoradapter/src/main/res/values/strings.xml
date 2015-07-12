@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_world">hello world!</string>
+    <string name="action_settings">settings</string>
+    <string name="app_name">simplecursoradapter</string>
+    <string name="add_record">добавить запись</string>
+    <string name="delete_record">удалить запись</string>
+</resources>

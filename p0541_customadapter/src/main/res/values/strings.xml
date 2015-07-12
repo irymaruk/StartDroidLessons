@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P0541_CustomAdapter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="box">Корзина</string>
+</resources>
