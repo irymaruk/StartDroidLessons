@@ -41,6 +41,12 @@
       <module fileurl="file://$PROJECT_DIR$/p0621_alertdialogitems/p0621_alertdialogitems.iml" filepath="$PROJECT_DIR$/p0621_alertdialogitems/p0621_alertdialogitems.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0631_alertdialogitemssingle/p0631_alertdialogitemssingle.iml" filepath="$PROJECT_DIR$/p0631_alertdialogitemssingle/p0631_alertdialogitemssingle.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" filepath="$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" filepath="$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" filepath="$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0701_saveinstancestate/p0701_saveinstancestate.iml" filepath="$PROJECT_DIR$/p0701_saveinstancestate/p0701_saveinstancestate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0771_tabintent/p0771_tabintent.iml" filepath="$PROJECT_DIR$/p0771_tabintent/p0771_tabintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0781_tabcontentfactory/p0781_tabcontentfactory.iml" filepath="$PROJECT_DIR$/p0781_tabcontentfactory/p0781_tabcontentfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0801_handler/p0801_handler.iml" filepath="$PROJECT_DIR$/p0801_handler/p0801_handler.iml" />
     </modules>
   </component>
 </project>
