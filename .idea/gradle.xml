@@ -54,6 +54,8 @@
             <option value="$PROJECT_DIR$/p0771_tabintent" />
             <option value="$PROJECT_DIR$/p0781_tabcontentfactory" />
             <option value="$PROJECT_DIR$/p0801_handler" />
+            <option value="$PROJECT_DIR$/p0951_servicebackpendingintent" />
+            <option value="$PROJECT_DIR$/sqlitemultithreadwriting" />
           </set>
         </option>
       </GradleProjectSettings>

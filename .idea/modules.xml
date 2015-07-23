@@ -47,6 +47,8 @@
       <module fileurl="file://$PROJECT_DIR$/p0771_tabintent/p0771_tabintent.iml" filepath="$PROJECT_DIR$/p0771_tabintent/p0771_tabintent.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0781_tabcontentfactory/p0781_tabcontentfactory.iml" filepath="$PROJECT_DIR$/p0781_tabcontentfactory/p0781_tabcontentfactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0801_handler/p0801_handler.iml" filepath="$PROJECT_DIR$/p0801_handler/p0801_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0951_servicebackpendingintent/p0951_servicebackpendingintent.iml" filepath="$PROJECT_DIR$/p0951_servicebackpendingintent/p0951_servicebackpendingintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitemultithreadwriting/sqlitemultithreadwriting.iml" filepath="$PROJECT_DIR$/sqlitemultithreadwriting/sqlitemultithreadwriting.iml" />
     </modules>
   </component>
 </project>
